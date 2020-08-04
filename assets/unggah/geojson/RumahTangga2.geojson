@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RumahTangga2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "KODE": 1002, "NOPEL": 1011993, "NAMA": "SARIYANTI", "ALAMAT": "Perum Vila Indah Permai C1\/11", "GOLONGAN": "Rumah Tangga 2", "STATUS": "AKTIF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 107.024314510631271, -6.197502169742462 ], [ 107.024398409780403, -6.19753169833625 ], [ 107.024354935246137, -6.197649323316901 ], [ 107.024271241978411, -6.197618745588851 ], [ 107.024314510631271, -6.197502169742462 ] ] ] } },
+{ "type": "Feature", "properties": { "KODE": 1002, "NOPEL": 3011998, "NAMA": "JATMIKO", "ALAMAT": "Kav Bulak Perwira  Swadaya V 7", "GOLONGAN": "Rumah Tangga 2", "STATUS": "AKTIF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 107.010963654964698, -6.197799928905442 ], [ 107.011030537885077, -6.19781370880361 ], [ 107.011026840839193, -6.197832866223013 ], [ 107.01111120070361, -6.197848326596566 ], [ 107.011092379379278, -6.197969656919457 ], [ 107.010935422978207, -6.197943105408354 ], [ 107.010963654964698, -6.197799928905442 ] ] ] } }
+]
+}

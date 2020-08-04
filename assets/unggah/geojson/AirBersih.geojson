@@ -1,0 +1,151 @@
+{
+	"type": "FeatureCollection",
+	"name": "AirBersih",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "SUGIMAN",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Kav Bulak Perwira Jl. Swadaya V 10",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.010856692706454, -6.197351578072403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "ALI GOZALI",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Kav Bulak Perwira Jl. Melati 1 15",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.010708810872458, -6.197523658751958]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "NIRMALA",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Kav Bulak Perwira Jl. Swadaya V 9",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.011122880007662, -6.197605665950808]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "TUNGKY SUGIANTO",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Vila Indah Permai V4\/12",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.02400876526967, -6.197324690466226]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "HAIRUL HASAN",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Vila Indah Permai J3\/3",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.024234621161582, -6.197413419566622]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "ABDUL MANAN",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Vila Indah Permai A6\/3",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.024377125474345, -6.197445684694038]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "SARIYANTI",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Vila Indah Permai C1\/11",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.024336794065078, -6.197561301400615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "MIRA SANTIKA",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Taman Wisma Asri 2 AJ1 21",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027243344293211, -6.204670384474748]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "AMANDA",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Taman Wisma Asri 2 RH3 10",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027362994140717, -6.204713404644637]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 221,
+				"NAMA": "NURULLIZATY",
+				"KATEGORI": "Air Bersih",
+				"ALAMAT": "Perum Taman Wisma Asri 2 RB2 15",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027389881746899, -6.204630053065477]
+			}
+		}
+	]
+}

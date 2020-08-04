@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TidakBersedia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "KODE": 103, "NAMA": null, "ALAMAT": null, "ALASAN": "Tidak bersedia" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 107.024297369318177, -6.197357411667072 ], [ 107.024362090323606, -6.19737899342156 ], [ 107.024314456277722, -6.19750199915835 ], [ 107.024251814389743, -6.197479611752456 ], [ 107.024297369318177, -6.197357411667072 ] ] ] } }
+]
+}

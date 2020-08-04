@@ -1,0 +1,151 @@
+{
+	"type": "FeatureCollection",
+	"name": "AirMati",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "YANTO",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Kav Bulak Perwira Jl. Melati 1 16",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.010859381467071, -6.197553235118757]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "GUNAWAN",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Kav Bulak Perwira Jl. Barokah III 5",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.010927944862857, -6.197563990161228]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "YUNIKE",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Kav Bulak Perwira Jl. Barokah III 5 12",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.011243874235475, -6.197750859024182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "HIMALAYA",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Kav Bulak Perwira Jl. Swadaya IV 2",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.011317815152466, -6.197762958446963]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "MUJIANTO",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Perum Vila Indah Permai U4\/7",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.024108249412535, -6.197477949821455]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "ABDUL",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Perum Vila Indah Permai O3\/6",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.024140514539951, -6.197375776917969]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "NANA YULIANTI",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Perum Taman Wisma Asri 2 AA1 20",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027268887519085, -6.204587032895588]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "FARHAN",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Perum Taman Wisma Asri 2 RA1 11",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027307874548043, -6.20469592770062]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "RUDI BASKORO",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Perum Taman Wisma Asri 2 RG9 30",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027478610847282, -6.204755080434216]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 223,
+				"NAMA": "IYAN RAHMAN",
+				"KATEGORI": "Air Mati",
+				"ALAMAT": "Perum Taman Wisma Asri 2 UA15 6",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027508187214082, -6.204670384474748]
+			}
+		}
+	]
+}

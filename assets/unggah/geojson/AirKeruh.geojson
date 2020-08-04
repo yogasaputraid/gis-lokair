@@ -1,0 +1,151 @@
+{
+	"type": "FeatureCollection",
+	"name": "AirKeruh",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "AHMAD RIYADI",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Kav Bulak Perwira Jl. Barokah III 9",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.011020707104151, -6.19759087776741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "UNDANG ROHENI",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Kav Bulak Perwira Jl. Swadaya IV 6",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.010722254675585, -6.197814044898707]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "JATMIKO",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Kav Bulak Perwira Jl. Swadaya V 7",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.01102877338603, -6.197883952674776]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "SUGIARTI",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Vila Indah Permai U6\/8",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.023844750871973, -6.197399975763531]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "IDHAM MARZUNI",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Vila Indah Permai V3\/5",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.023901214844955, -6.197287047817573]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "WAHAB SYARANI",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Vila Indah Permai U6\/5",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.023968433860404, -6.19742955213033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "MULYANTO",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Vila Indah Permai A1\/1",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.024264197528382, -6.197537102555052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "RIZKY SYARQOWIH",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Taman Wisma Asri 2 AK1 30",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027334762154226, -6.204611231741151]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "YAYAH NURAYAH",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Taman Wisma Asri 2 RJ51",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027416769353067, -6.204732225968963]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"KODE": 222,
+				"NAMA": "SLAMET RIYADI",
+				"KATEGORI": "Air Keruh",
+				"ALAMAT": "Perum Taman Wisma Asri 2 TJ9 30",
+				"TANGGAL": "2020\/06\/22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.027445001339558, -6.204647530009495]
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RaguRagu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "KODE": 102, "NAMA": null, "ALAMAT": null, "ALASAN": "Ragu - ragu" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 107.01128072995742, -6.197868926723066 ], [ 107.011473220763236, -6.197909547406416 ], [ 107.01144577435555, -6.198040924211128 ], [ 107.011249624028721, -6.197994814246243 ], [ 107.01128072995742, -6.197868926723066 ] ] ] } }
+]
+}

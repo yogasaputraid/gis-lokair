@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RumahTangga1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "KODE": 1001, "NOPEL": 1011998, "NAMA": "SUGIARTI", "ALAMAT": "Perum Vila Indah Permai U6\/8", "GOLONGAN": "Rumah Tangga 1", "STATUS": "AKTIF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 107.023771409630982, -6.197305380621393 ], [ 107.023937169043919, -6.197366978232689 ], [ 107.023890910603086, -6.197487844471285 ], [ 107.023775906979381, -6.19744736833557 ], [ 107.023782974241172, -6.197368985977521 ], [ 107.023762625667047, -6.197361471550801 ], [ 107.023771409630982, -6.197305380621393 ] ] ] } }
+]
+}
