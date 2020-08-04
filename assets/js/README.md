@@ -1,5 +1,6 @@
 # gis-lokair
-<br> Extract the js.zip to the folder assets/js
+<br> Extract all file the js.zip to the folder assets/js
+
  
 
 
