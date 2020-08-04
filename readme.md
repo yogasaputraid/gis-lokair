@@ -16,7 +16,7 @@ Sistem Informasi Geografis Lokasi Kualitas Air PDAM Patriot Bekasi
 <br>
 <br>Komponen : 
 <br> - PHP 7.3.20
-<br> - CodeIgniter 3.11
+<br> - CodeIgniter 3.1.11
 <br> - Database MariaDB (XAMPP)
 <br>
 <br>
