@@ -1,5 +1,5 @@
 # gis-lokair
-Sistem Informasi Geografis Lokasi Kualitas Air PDAM Patriot Bekasi
+Sistem Informasi Geografis Lokasi Kualitas Air PDAM
 <br> Demo : gis-lokair.com
 <br> Email: admin@gis-lokair.com / user@gis-lokair.com
 <br> Pass : admin / user
