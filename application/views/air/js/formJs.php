@@ -18,7 +18,7 @@
 
 	var Layer = L.gridLayer.googleMutant({
 		maxZoom: 24,
-		type: 'roadmap'
+		type: 'hybrid'
 	});
 	map.addLayer(Layer);
 
